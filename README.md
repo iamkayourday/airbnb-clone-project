@@ -60,11 +60,11 @@ A user-friendly design is crucial for a booking system because:
 ### Design Properties from Figma
 
 #### **Color Styles**
-- **Primary Color**: 
+- **Primary Color**: #34967C
 - **Secondary Color**: #FAC02B
 - **Background Color**: #FFFFFF
 - **Text Color**: #161117
-- **Accent Color**: 
+- **Accent Color**: #161117
 
 #### **Typography**
 - **Font Family**: 
@@ -72,7 +72,7 @@ A user-friendly design is crucial for a booking system because:
   - Regular: 400
   - Medium: 500
   - Bold: 700
-  
+
 - **Font Sizes**:
   - Heading: 32px
   - Subheading: 24px
