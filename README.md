@@ -61,9 +61,9 @@ A user-friendly design is crucial for a booking system because:
 
 #### **Color Styles**
 - **Primary Color**: 
-- **Secondary Color**: 
-- **Background Color**: 
-- **Text Color**: 
+- **Secondary Color**: #FAC02B
+- **Background Color**: #FFFFFF
+- **Text Color**: #161117
 - **Accent Color**: 
 
 #### **Typography**
@@ -72,11 +72,12 @@ A user-friendly design is crucial for a booking system because:
   - Regular: 400
   - Medium: 500
   - Bold: 700
+  
 - **Font Sizes**:
-  - Heading: 
-  - Subheading: 
-  - Body Text: 
-  - Caption: 
+  - Heading: 32px
+  - Subheading: 24px
+  - Body Text: 16px
+  - Caption: 14px
 
 ### Importance of Identifying Design Properties
 Identifying the design properties of a mockup design is essential for the following reasons:
