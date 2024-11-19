@@ -174,28 +174,81 @@ In this project, different team roles contribute to achieving the project goals.
 ---
 
 
-### **UI Component Patterns**
-### Component Description Features
-**Navbar**	A navigation bar present at the top of all pages, providing links to Home, Search, Login/Signup, and User Profile.	- Responsive design for desktop and mobile views.
+## UI Component Patterns
+
+### Navbar
+**Description:**  
+A navigation bar present at the top of all pages, providing links to Home, Search, Login/Signup, and User Profile.
+
+**Features:**
+- Responsive design for desktop and mobile views.
 - Dropdown menu for user account options.
 - Embedded search bar for quick access.
-**Property Card**	A compact card to display property listings on the main page and search results, showcasing details like title and price.	- Property title, price, and location.
+
+---
+
+### Property Card
+**Description:**  
+A compact card to display property listings on the main page and search results, showcasing details like title and price.
+
+**Features:**
+- Property title, price, and location.
 - Thumbnail image.
 - "View Details" button.
 - Hover effects.
-**Footer**	A fixed footer at the bottom of pages containing helpful links and additional information.	- Links to About, Contact Us, Privacy Policy, and FAQs.
+
+---
+
+### Footer
+**Description:**  
+A fixed footer at the bottom of pages containing helpful links and additional information.
+
+**Features:**
+- Links to About, Contact Us, Privacy Policy, and FAQs.
 - Social media icons.
 - Copyright notice.
-**Search Input**	A user-friendly search bar allowing users to filter properties based on location, date, and price range.	- Autocomplete suggestions for locations.
+
+---
+
+### Search Input
+**Description:**  
+A user-friendly search bar allowing users to filter properties based on location, date, and price range.
+
+**Features:**
+- Autocomplete suggestions for locations.
 - Date picker for check-in/out dates.
 - Dropdown for number of guests.
-**Booking Summary**	Displays a summary of selected property and booking details during checkout.	- Property name, location, and price breakdown.
+
+---
+
+### Booking Summary
+**Description:**  
+Displays a summary of selected property and booking details during checkout.
+
+**Features:**
+- Property name, location, and price breakdown.
 - Dates and guest count.
 - "Confirm Booking" button.
-**Modal**	A reusable modal for login/signup forms, alerts, or confirmations.	- Overlay background to focus user attention.
+
+---
+
+### Modal
+**Description:**  
+A reusable modal for login/signup forms, alerts, or confirmations.
+
+**Features:**
+- Overlay background to focus user attention.
 - Close button.
 - Adjustable size for various use cases.
-**View More Button** A feature to dynamically load more property listings as the user scrolls or clicks the "View More" button.	- "View More" button for loading additional listings.
+
+---
+
+### View More Button
+**Description:**  
+A feature to dynamically load more property listings as the user scrolls or clicks the "View More" button.
+
+**Features:**
+- "View More" button for loading additional listings.
 - Smooth loading animation.
 - Optimized for performance and UX.
 
