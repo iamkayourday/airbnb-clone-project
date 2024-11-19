@@ -16,6 +16,7 @@ The Airbnb Clone Project is a hands-on learning initiative that involves buildin
 - **Tools**: REST APIs, Git/GitHub
 
 ---
+---
 
 ## UI/UX Design Planning
 
@@ -54,6 +55,7 @@ A user-friendly design is crucial for a booking system because:
 - It caters to diverse users, including those who may not be tech-savvy, by maintaining simplicity and clarity.
 
 ---
+---
 
 ### Design Properties from Figma
 
@@ -84,7 +86,91 @@ Identifying the design properties of a mockup design is essential for the follow
 - **User Experience**: Creates a polished and professional interface that users find visually appealing and easy to navigate.
 - **Collaboration**: Facilitates better communication between designers and developers, ensuring the final product aligns with the mockup.
 
+---
+---
 
+## Project Roles and Responsibilities
+
+In this project, different team roles contribute to achieving the project goals. Each role focuses on specific areas to ensure a seamless development process and a high-quality product.
+
+### **1. Project Manager (PM)**
+- **Key Responsibilities**:
+  - Plan and monitor the project's progress to ensure timely completion.
+  - Manage resources, timelines, and communication between team members.
+  - Identify risks and implement strategies to mitigate them.
+  - Serve as the primary point of contact for stakeholders.
+- **Contribution**: Ensures that the project stays on track and meets deadlines by coordinating the team's efforts and addressing challenges.
+
+---
+
+### **2. Frontend Developers**
+- **Key Responsibilities**:
+  - Implement the UI/UX design using HTML, CSS, JavaScript, and React with TypeScript.
+  - Create reusable components and integrate them with backend APIs.
+  - Ensure responsive and visually appealing design for all devices.
+- **Contribution**: Bring the user interface to life, ensuring an engaging and accessible experience for end users.
+
+---
+
+### **3. Backend Developers**
+- **Key Responsibilities**:
+  - Develop and maintain server-side functionality using Python and Django.
+  - Design and manage databases, such as MySQL.
+  - Create APIs for communication between the frontend and backend.
+  - Implement security measures and optimize backend performance.
+- **Contribution**: Provide the functionality and logic that powers the application, ensuring it is secure and scalable.
+
+---
+
+### **4. Designers**
+- **Key Responsibilities**:
+  - Create wireframes, mockups, and prototypes for the application.
+  - Design the visual elements and interactions for a seamless user experience.
+  - Ensure brand consistency across all UI elements.
+  - Collaborate with frontend developers to implement designs.
+- **Contribution**: Define the visual identity of the application and ensure it is intuitive and aesthetically pleasing.
+
+---
+
+### **5. QA/Testers**
+- **Key Responsibilities**:
+  - Develop and execute test plans to identify bugs and usability issues.
+  - Perform manual and automated testing to ensure functionality meets requirements.
+  - Document and track issues, verifying their resolution.
+  - Conduct regression testing after fixes or updates.
+- **Contribution**: Ensure the application meets quality standards and delivers a smooth user experience.
+
+---
+
+### **6. DevOps Engineers**
+- **Key Responsibilities**:
+  - Automate deployment processes and manage server configurations.
+  - Implement and maintain CI/CD pipelines for efficient code delivery.
+  - Monitor application performance and resolve infrastructure-related issues.
+  - Ensure security and compliance in production environments.
+- **Contribution**: Enable continuous and reliable deployment of the application while maintaining its stability and performance.
+
+---
+
+### **7. Product Owner (PO)**
+- **Key Responsibilities**:
+  - Define and prioritize product features and create a roadmap.
+  - Manage the product backlog, ensuring features align with user needs and business goals.
+  - Act as a bridge between stakeholders and the development team.
+  - Validate the delivered features meet the expected requirements.
+- **Contribution**: Ensure the final product delivers maximum value to users and aligns with the project's vision.
+
+---
+
+### **8. Scrum Master**
+- **Key Responsibilities**:
+  - Facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
+  - Remove impediments that block the team's progress.
+  - Coach the team on Agile principles and foster a culture of collaboration.
+  - Ensure continuous improvement in development processes.
+- **Contribution**: Helps the team stay focused, productive, and aligned with Agile best practices.
+
+---
 
 
 ## Repository Setup
