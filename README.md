@@ -15,6 +15,8 @@ The Airbnb Clone Project is a hands-on learning initiative that involves buildin
 - **Frontend**: React, JavaScript/TypeScript, Next.js, TailwindCSS
 - **Tools**: REST APIs, Git/GitHub
 
+---
+
 ## UI/UX Design Planning
 
 ### Design Goals
@@ -51,6 +53,7 @@ A user-friendly design is crucial for a booking system because:
 - It builds user trust and encourages repeat visits by providing a smooth and frustration-free process.
 - It caters to diverse users, including those who may not be tech-savvy, by maintaining simplicity and clarity.
 
+---
 
 ### Design Properties from Figma
 
@@ -80,6 +83,9 @@ Identifying the design properties of a mockup design is essential for the follow
 - **Scalability**: Makes it easier to maintain and scale the design system for future updates and features.
 - **User Experience**: Creates a polished and professional interface that users find visually appealing and easy to navigate.
 - **Collaboration**: Facilitates better communication between designers and developers, ensuring the final product aligns with the mockup.
+
+
+
 
 ## Repository Setup
 
